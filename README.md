@@ -22,26 +22,26 @@ The code is seperated from the main file due to changes in the K-matrix for heat
 
 The 4th argument for the structural topology optimization is for the boundary condition, i.e., the problem set-up. Of course custom BCs can be used, but for reference, there are several example BCs already used namely:
 
-'MBB' : The classic Messerschmitt-Bolkow-Blohm beam.
+1) 'MBB' : The classic Messerschmitt-Bolkow-Blohm beam.
 
-'L_Shape' : The L-Shaped Cantilever beam.
+2) 'L_Shape' : The L-Shaped Cantilever beam.
 
-'Short_Cantilever' : The simple short Cantilever beam.
+3) 'Short_Cantilever' : The simple short Cantilever beam.
 
-'Compliant' : Boundary Conditions and objective functions tailored to provide a simple compliant structure with Linear Mechanics.
+4) 'Compliant' : Boundary Conditions and objective functions tailored to provide a simple compliant structure with Linear Mechanics.
 
-'RIB' : A simple application to provide design for a Eppler 420 wing rib, not accounted for multiple load cases seen practically.
+5) 'RIB' : A simple application to provide design for a Eppler 420 wing rib, not accounted for multiple load cases seen practically.
 
-'LW' : BC, Objective and Constraint function implemented to obtain a Morphing winglet using Linear mechanics. Uses Objective and Constraint (and their sensitivities) from objective_fcn.m and constraint_fcn.m. Also dedicates 1 component to provide optimum placement of actuator. A work in progress.
+6) 'LW' : BC, Objective and Constraint function implemented to obtain a Morphing winglet using Linear mechanics. Uses Objective and Constraint (and their sensitivities) from objective_fcn.m and constraint_fcn.m. Also dedicates 1 component to provide optimum placement of actuator. A work in progress.
 
 ### Method
 The final argument for both structural and thermal boundary conditions is the method of solving. This can be changed to 3 methods:
 
-'GP' : Also known as Geometric Projection, first envisioned by Julian Norato (Ref[2]).
+1) 'GP' : Also known as Geometric Projection, first envisioned by Julian Norato (Ref[2]).
 
-'MMC' : Moving Morphable Components, by Xu Guo and team (Ref[3])
+2) 'MMC' : Moving Morphable Components, by Xu Guo and team (Ref[3])
 
-'MNA' : Moving Node Approach, first conceptualised by J.T. Overvelde (Ref[4]), further developed in house at ISAE SUPAERO, Toulouse (France).
+3) 'MNA' : Moving Node Approach, first conceptualised by J.T. Overvelde (Ref[4]), further developed in house at ISAE SUPAERO, Toulouse (France).
 
 ## Note:
 
