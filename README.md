@@ -46,8 +46,8 @@ The final argument for both structural and thermal boundary conditions is the me
 ## Note:
 
 1) While GP and MNA can be used largly unchanged, the parameters for MMC must be carefully changed depending upon the resolution. If not, there is a possibility of obtained large fraction of gray areas.
-2) Lines 240-247 provides code for loading a file if previously present. If not, It'll create a new one. Can be replaced using a simple fopen() command.
-3) Line 248 can be commented if use does not desire to store the variable post code execution.
+2) Lines 493-501 (240-247 in GGP_heat.m) provides code for loading a file if previously present. If not, It'll create a new one. Can be replaced using a simple fopen() command.
+3) Line 688 (248 in GGP_heat.m) can be commented if use does not desire to store the variable post code execution.
 4) If the user desires to read the output directly on the console, in Line 351, delete the section "f1," in
 ```bash
 fprintf(f1,'It.:%5i ........);
