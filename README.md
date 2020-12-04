@@ -57,10 +57,10 @@ fprintf(f1,'It.:%5i ........);
 
 ## References
 
-[1. Coniglio, S., Morlier, J., Gogu, C., and Amargier, R., 2019.“Generalized geometry projection:  A unified approach forgeometric feature based topology optimization”.](https://link.springer.com/article/10.1007/s11831-019-09362-8)
+[1. Coniglio, S., Morlier, J., Gogu, C., and Amargier, R., 2019.“Generalized geometry projection: A unified approach forgeometric feature based topology optimization”.](https://link.springer.com/article/10.1007/s11831-019-09362-8)
 
-[2. Norato, J., Bell, B., and Tortorelli, D. A., 2015.  “A geom-etry projection method for continuum-based topology op-timization with discrete elements”.](https://www.sciencedirect.com/science/article/pii/S0045782515001711?casa_token=Xr892VegDc0AAAAA:89vzo5j0SLHYUh81j6ct9CI6nLxcAElsgHH-j3wqz5d1toX4X8BYiRwC3ZdPUg8Lu_Wyf3BtltM)
+[2. Norato, J., Bell, B., and Tortorelli, D. A., 2015. “A geometry projection method for continuum-based topology optimization with discrete elements”.](https://www.sciencedirect.com/science/article/pii/S0045782515001711?casa_token=Xr892VegDc0AAAAA:89vzo5j0SLHYUh81j6ct9CI6nLxcAElsgHH-j3wqz5d1toX4X8BYiRwC3ZdPUg8Lu_Wyf3BtltM)
 
-[3. Zhang,   W.,   Yuan,   J.,   Zhang,   J.,   and  Guo,   X.,   2016.“A  new  topology  optimization  approach  based  on  mov-ing  morphable  components  (mmc)  and  the  ersatz  mate-rial model”.](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s00158-015-1372-3.pdf&casa_token=iAKD3Y2P-30AAAAA:yMzRxgj07Jrk8lFPfZERQh7l05SX_PkJFCOmzNqBWRilfAOllY0mJ0dcDsOG7wX5qjq-66Ap8BkrqI2p)
+[3. Zhang, W., Yuan, J., Zhang, J., and Guo, X., 2016.“A new topology optimization approach based on moving morphable components (mmc) and the ersatz material model”.](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s00158-015-1372-3.pdf&casa_token=iAKD3Y2P-30AAAAA:yMzRxgj07Jrk8lFPfZERQh7l05SX_PkJFCOmzNqBWRilfAOllY0mJ0dcDsOG7wX5qjq-66Ap8BkrqI2p)
 
-[4. Overvelde,  J.  T.,  2012.    “The  moving  node  approach  intopology optimization”.](https://repository.tudelft.nl/islandora/object/uuid:86c056d8-f368-4239-893f-07ca3a22e112/datastream/OBJ1/download)
+[4. Overvelde, J. T., 2012. “The moving node approach intopology optimization”.](https://repository.tudelft.nl/islandora/object/uuid:86c056d8-f368-4239-893f-07ca3a22e112/datastream/OBJ1/download)
